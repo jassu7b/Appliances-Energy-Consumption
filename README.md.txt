@@ -1,2 +1,0 @@
-# Appliances Energy Consumption
-
