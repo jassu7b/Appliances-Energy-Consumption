@@ -66,10 +66,6 @@ Evaluated models using:
 * XGBoost
 * SHAP
 
-## Results
-* Best Model : XGBoost Regressor
-* Accuracy : 65.06%
-
 ## Author
 
 Bhoday Jasmeet Singh | Computer Science Graduate | Machine Learning & Data Analytics Enthusiast
